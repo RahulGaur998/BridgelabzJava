@@ -1,8 +1,6 @@
-package Day2Problems;
+package Day2Problems.IfElse;
 
 import java.util.Scanner;
-
-import javax.lang.model.util.ElementScanner14;
 
 public class Problem1 {
 

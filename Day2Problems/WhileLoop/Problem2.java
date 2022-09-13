@@ -1,4 +1,4 @@
-package Day2Problems;
+package Day2Problems.WhileLoop;
 
 import java.util.Scanner;
 
