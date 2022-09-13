@@ -1,3 +1,5 @@
+//Write a program to check two strings are equal or not. 
+
 package Day1Problems;
 
 public class Problem3 {

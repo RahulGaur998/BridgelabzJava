@@ -1,4 +1,4 @@
-//Java Program to print the largest element in an array
+//Java Program to print the duplicate elements of an array
 
 package Day3Problems;
 

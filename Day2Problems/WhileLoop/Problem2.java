@@ -1,3 +1,5 @@
+//Write a Program to reverse the integer number eg. Input n=231 reverse is 132
+
 package Day2Problems.WhileLoop;
 
 import java.util.Scanner;

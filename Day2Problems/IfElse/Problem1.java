@@ -1,3 +1,5 @@
+//Read a single Digit Number and write in word
+
 package Day2Problems.IfElse;
 
 import java.util.Scanner;

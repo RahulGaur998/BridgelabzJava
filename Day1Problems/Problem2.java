@@ -1,3 +1,5 @@
+//Write a Java program to display the default value of all primitive data types of Java
+
 package Day1Problems;
 
 public class Problem2 {

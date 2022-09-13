@@ -1,3 +1,5 @@
+//Write a program to demonstrate static variables, methods, and blocks.
+
 package Day1Problems;
 
 public class Problem6 {
